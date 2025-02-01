@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 285.74999 285.75"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="../SEV01.png"
+   inkscape:export-xdpi="249.36696"
+   inkscape:export-ydpi="249.36696"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="SEV.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.36563124"
+     inkscape:cx="355.54949"
+     inkscape:cy="533.32423"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1"><inkscape:path-effect
+       effect="powerclip"
+       id="path-effect36"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Utilice la regla de relleno parimpar en el diálogo &lt;b&gt;Relleno y borde&lt;/b&gt; si el resultado no está aplanada después de convertir el recorte en trayectos." /><rect
+       x="78.596721"
+       y="326.29548"
+       width="410.84649"
+       height="370.35727"
+       id="rect4" /><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36"><path
+         d="m 74.133116,183.24411 h 13.47135 C 88.704175,160.60853 90.536975,149.61151 104.1,133.3909 v -8.33934 H 63.594264 v 11.36352 h 26.026361 c -10.99702,15.21259 -14.479489,27.49256 -15.487509,46.82903 z"
+         id="path36"
+         style="font-size:8.46667px;font-family:'Source Sans Variable';-inkscape-font-specification:'Source Sans Variable, @wght=700';font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;white-space:pre;inline-size:47.2375;display:none;stroke-width:75.7669;stroke-linecap:round;stroke-linejoin:bevel"
+         aria-label="7" /><path
+         id="lpe_path-effect36"
+         style="font-size:8.46667px;font-family:'Source Sans Variable';-inkscape-font-specification:'Source Sans Variable, @wght=700';font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;white-space:pre;inline-size:47.2375;stroke-width:75.7669;stroke-linecap:round;stroke-linejoin:bevel"
+         class="powerclip"
+         d="M 33.364513,78.279596 H 134.32975 V 230.01609 H 33.364513 Z M 74.133116,183.24411 h 13.47135 C 88.704175,160.60853 90.536975,149.61151 104.1,133.3909 v -8.33934 H 63.594264 v 11.36352 h 26.026361 c -10.99702,15.21259 -14.479489,27.49256 -15.487509,46.82903 z" /></clipPath></defs><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="font-variation-settings:'wght' 840;display:none;fill:#000000;stroke-width:18.767;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect1"
+       width="285.75"
+       height="285.75"
+       x="-1.110223e-16"
+       y="0" /><text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4"
+       style="fill:#000000;-inkscape-font-specification:'Source Code Variable, @wght=700';font-family:'Source Code Variable';font-size:32.00001144px;stroke-width:26.45669291;stroke-linecap:round;stroke-linejoin:bevel;text-align:center;font-variation-settings:'wght' 700;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4)" /><rect
+       style="font-variation-settings:'wght' 700;display:none;fill:#1a1a1a;stroke-width:1.81404;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect2"
+       width="52.825306"
+       height="91.901566"
+       x="117.22877"
+       y="96.243378" /><g
+       id="g6"
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(1.2093251,0,0,1.2093251,41.476558,-43.539854)"
+       clip-path="url(#clipPath36)"
+       inkscape:path-effect="#path-effect36"><g
+         id="g4"
+         transform="matrix(2.8441194,0,0,2.8441194,-113.9689,-231.78541)"
+         style="fill:#000000;fill-opacity:1"><path
+           d="M 85.54445,160.61263 V 149.5382 L 63.643526,135.81913 v -0.33058 L 85.54445,121.85213 V 110.7777 l -31.983614,20.74389 v 8.34715 z"
+           id="text2"
+           style="font-size:82.645px;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, @wght=700';font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;stroke-width:68.3281;stroke-linecap:round;stroke-linejoin:bevel;fill:#000000"
+           aria-label="&lt;"
+           inkscape:original-d="M 85.54445,160.61263 V 149.5382 L 63.643526,135.81913 v -0.33058 L 85.54445,121.85213 V 110.7777 l -31.983614,20.74389 v 8.34715 z" /><path
+           d="m 53.560844,160.61263 31.983614,-20.74389 v -8.34715 L 53.560844,110.7777 v 11.07443 l 21.900924,13.63642 v 0.33058 L 53.560844,149.5382 Z"
+           id="text3"
+           style="font-size:82.645px;font-family:'Source Code Variable';-inkscape-font-specification:'Source Code Variable, @wght=700';font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;stroke-width:68.3281;stroke-linecap:round;stroke-linejoin:bevel;fill:#000000"
+           aria-label="&gt;"
+           inkscape:original-d="m 53.560844,160.61263 31.983614,-20.74389 v -8.34715 L 53.560844,110.7777 v 11.07443 l 21.900924,13.63642 v 0.33058 L 53.560844,149.5382 Z" /></g><path
+         id="rect5"
+         style="font-variation-settings:'wght' 700;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;fill:#000000"
+         d="m 61.508923,136.76689 h 41.970797 v 36.18172 H 61.508923 Z"
+         inkscape:original-d="m 61.508923,136.76689 h 41.970797 v 36.18172 H 61.508923 Z" /></g></g></svg>
